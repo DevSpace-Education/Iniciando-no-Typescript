@@ -52,6 +52,7 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn o
 para configurar o nosso orm, basta criar um arquivo e passar as seguintes configurações
 
 ```bash
+{
   {
   "name": "default",
   "type": "postgres",
